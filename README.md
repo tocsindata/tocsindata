@@ -51,6 +51,8 @@ Dan is an Information Professional at Tocsin Data. As a Data Specialist with 15+
 </a></p>
 
 
-### Badges<b>My GitHub Stats</b>
+### Badges
+
+<b>My GitHub Stats</b>
 <a href="http://www.github.com/tocsindata"><img src="https://github-readme-stats.vercel.app/api?username=tocsindata&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="tocsindata's GitHub stats" /></a><a href="https://github.com/tocsindata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
