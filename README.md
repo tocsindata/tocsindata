@@ -4,7 +4,12 @@ Hi 👋 My name is Daniel Foscarini
 Data Specialist at Tocsin Data
 ------------------------------
 
-Dan is an Information Professional at Tocsin Data. As a Data Specialist with 15+ years’ experience focused on secure communications and research.
+Dan is an Information Professional at Tocsin Data. As a Data Specialist with 15+ years’ experience focused on secure communications and research, Dan is a data industry innovator and thought leader. He provides revolutionizing data solutions for various agencies including law enforcement and federal agencies. Attention to detail and verifying sources is paramount to gathering and reporting reactive information.
+
+When he is not using his analytical skills in statistical data analysis, programming, databases, encryption and more, he enjoys painting and playing the banjo.
+
+“I’ve known Dan for at least 8 years and have always found him to be responsive, attentive to details, and honest. Our work as a military and government contractor has at times required customized solutions. Dan built a custom dark-web search engine which we used for government and corporate clientele. This proved to be one of our biggest successes and produced results that had a very significant impact on national security, while also helping us serve our favorite financial-services clients. Dan operates with the necessary level of integrity required for such efforts and I hope we can partner with him for a long time to come.”
+– Morgan C.
 
 *   🌍  I'm based in Vancouver, BC Canada
 *   ✉️  You can contact me at [info@tocsindata.com](mailto:info@tocsindata.com)
