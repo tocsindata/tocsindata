@@ -58,7 +58,7 @@ When he is not using his analytical skills in statistical data analysis, program
 
 ### Stats
 
-<a href="http://www.github.com/tocsindata"><img src="https://github-readme-stats.vercel.app/api?username=tocsindata&hide_title=true&show_icons=true&hide=prs,issues,contribs,stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="tocsindata's GitHub stats" /></a>
+<a href="http://www.github.com/tocsindata"><img src="https://github-readme-stats.vercel.app/api?username=tocsindata&include_all_commits=true&hide_title=true&show_icons=true&hide=prs,issues,contribs,stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="tocsindata's GitHub stats" /></a>
 
 <a href="https://github.com/tocsindata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
