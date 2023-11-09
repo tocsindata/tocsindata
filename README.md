@@ -59,15 +59,8 @@ When he is not using his analytical skills in statistical data analysis, program
 ### Stats
 
 
-| <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tocsindata&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tocsindata&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-#### Top Repositories
 
 
-<a href="https://github.com/tocsindata/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=github-readme-stats&theme=dark" />
-</a>
-<a href="https://github.com/tocsindata/tocsindata.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=&theme=dark" />
-</a>
