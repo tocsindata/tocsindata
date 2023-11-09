@@ -58,7 +58,26 @@ When he is not using his analytical skills in statistical data analysis, program
 
 ### Stats
 
-<a href="http://www.github.com/tocsindata"><img src="https://github-readme-stats.vercel.app/api?username=tocsindata&include_all_commits=true&hide_title=true&hide_rank=true&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=false" alt="tocsindata's GitHub stats" /></a>
 
-<a href="https://github.com/tocsindata" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+| <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=tocsindata&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/tocsindata/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tocsindata&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+#### Top Repositories
+
+
+<a href="https://github.com/tocsindata/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=github-readme-stats&theme=buefy" />
+</a>
+<a href="https://github.com/tocsindata/tocsindata.github.io">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=tocsindata.github.io&theme=buefy" />
+</a>
+
+<br />
+<br />
+
+<a href="https://twitter.com/anuraghazru">
+  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/tocsindata/tocsindata/master/assets/twitter.svg" />
+</a>
+<a href="https://codesandbox.io/u/tocsindata">
+  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/tocsindata/tocsindata/master/assets/codesandbox.svg" />
 </a>
