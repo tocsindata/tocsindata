@@ -1,5 +1,5 @@
-Hi 👋 My name is Daniel Foscarini
-=================================
+Daniel Foscarini (Data Specialist)
+===================================
 
 Data Specialist at Tocsin Data
 ------------------------------
