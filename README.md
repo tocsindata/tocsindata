@@ -66,18 +66,8 @@ When he is not using his analytical skills in statistical data analysis, program
 
 
 <a href="https://github.com/tocsindata/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=github-readme-stats&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=github-readme-stats&theme=dark" />
 </a>
 <a href="https://github.com/tocsindata/tocsindata.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=tocsindata.github.io&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/tocsindata/tocsindata/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/tocsindata">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/tocsindata/tocsindata/master/assets/codesandbox.svg" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tocsindata&repo=&theme=dark" />
 </a>
