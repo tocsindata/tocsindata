@@ -15,7 +15,7 @@ When he is not using his analytical skills in statistical data analysis, program
 *   ✉️  You can contact me at [info@tocsindata.com](mailto:info@tocsindata.com)
 *   🤝  I'm open to collaborating on OSINT
 
-<img src="https://img.shields.io/github/followers/tocsindata?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/competentmen" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/competentmen?logo=twitter&style=for-the-badge&color=3382ed&labelColor=1c1917"/></a>
+<img src="https://img.shields.io/github/followers/tocsindata?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" /></a><a href="https://www.x.com/competentmen" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/tocsindata/tocsindata/refs/heads/main/competentmen-6k-blue.png"/></a>
 
 ### Skills 
 <p align="left">
