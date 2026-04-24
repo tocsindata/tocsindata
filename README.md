@@ -10,8 +10,7 @@ When he is not using his analytical skills in statistical data analysis, program
 
 “I’ve known Dan for at least 8 years and have always found him to be responsive, attentive to details, and honest. Our work as a military and government contractor has at times required customized solutions. Dan built a custom dark-web search engine which we used for government and corporate clientele. This proved to be one of our biggest successes and produced results that had a very significant impact on national security, while also helping us serve our favorite financial-services clients. Dan operates with the necessary level of integrity required for such efforts and I hope we can partner with him for a long time to come.”
 – Morgan C.
-
-*   🌍  I'm based in Vancouver, BC Canada
+ 
 *   ✉️  You can contact me at [info@tocsindata.com](mailto:info@tocsindata.com)
 *   🤝  I'm open to collaborating on OSINT
 
