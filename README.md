@@ -24,10 +24,11 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 “I’ve known Dan for at least 8 years and have always found him to be responsive, attentive to details, and honest. Our work as a military and government contractor has at times required customized solutions. Dan built a custom dark-web search engine which we used for government and corporate clientele. This proved to be one of our biggest successes and produced results that had a very significant impact on national security, while also helping us serve our favorite financial-services clients. Dan operates with the necessary level of integrity required for such efforts and I hope we can partner with him for a long time to come.”
 – Morgan C.
 
-### Contact & Collaboration
+### Contact
 
-*   ✉️  You can contact me at [info@tocsindata.com](mailto:info@tocsindata.com)
-*   🤝  I'm open to collaborating on OSINT, geospatial projects, data pipelines, and mapping tools
+- Available for remote contract, consulting, and employment opportunities
+- Interested in data systems, backend development, API integrations, automation, geospatial applications, and operational dashboards
+- Email: [info@tocsindata.com](mailto:info@tocsindata.com)
 
 <a href="https://github.com/tocsindata" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/github/followers/tocsindata?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="GitHub followers" />
