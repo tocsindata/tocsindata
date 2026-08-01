@@ -4,7 +4,7 @@ Daniel Foscarini
 Data Systems Developer | PHP, Python, APIs, Geospatial Intelligence & Automation
 ---------------------------------------------------------------------------------
 
-Dan is an Information Professional and Data Specialist at **Tocsin Data**, with over 15 years of experience in secure communications, research, data ingestion, and geospatial intelligence. He specializes in building robust data solutions — including operational dashboards, real-time mapping systems, ingestion pipelines, and custom OSINT tools — for clients in law enforcement, government, security, and enterprise sectors.
+Dan is a Data Systems Developer with more than 15 years of experience building data pipelines, APIs, operational dashboards, geospatial applications, and research tools. His work focuses on transforming complex, high-volume information into reliable systems for incident monitoring, situational awareness, security research, and operational decision-making.
 
 His work emphasizes precision in data validation, source verification, geospatial analysis, and the integration of diverse data streams into actionable intelligence platforms. Proficient with both proprietary and open-source tools, Dan frequently works with **ArcGIS**, **QGIS**, Python-based workflows, databases, APIs, and secure data pipelines to deliver reliable, scalable systems.
 
