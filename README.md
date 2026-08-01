@@ -6,7 +6,7 @@ Data Systems Developer | PHP, Python, APIs, Geospatial Intelligence & Automation
 
 Dan is a Data Systems Developer with more than 15 years of experience building data pipelines, APIs, operational dashboards, geospatial applications, and research tools. His work focuses on transforming complex, high-volume information into reliable systems for incident monitoring, situational awareness, security research, and operational decision-making.
 
-His work emphasizes precision in data validation, source verification, geospatial analysis, and the integration of diverse data streams into actionable intelligence platforms. Proficient with both proprietary and open-source tools, Dan frequently works with **ArcGIS**, **QGIS**, Python-based workflows, databases, APIs, and secure data pipelines to deliver reliable, scalable systems.
+He specializes in integrating databases, APIs, geospatial platforms, and external data sources into practical production systems. His work emphasizes data validation, source verification, automation, system reliability, and presenting complex information clearly to analysts, operators, and decision-makers.
 
 Key focus areas include:
 - Geospatial mapping and spatial data analysis
