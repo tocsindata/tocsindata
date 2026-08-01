@@ -8,12 +8,14 @@ Dan is a Data Systems Developer with more than 15 years of experience building d
 
 He specializes in integrating databases, APIs, geospatial platforms, and external data sources into practical production systems. His work emphasizes data validation, source verification, automation, system reliability, and presenting complex information clearly to analysts, operators, and decision-makers.
 
-Key focus areas include:
-- Geospatial mapping and spatial data analysis
-- Automated data ingestion and normalization pipelines
-- Custom OSINT tooling and dark-web research capabilities
-- Secure communications and encrypted data handling
-- Dashboard development for incident monitoring and operational awareness
+### Core Capabilities
+
+- Backend application development with PHP, Laravel, Python, and MySQL
+- API integrations, webhooks, automated ingestion, and data normalization
+- Geospatial applications using ArcGIS, QGIS, PostGIS, and web mapping tools
+- Operational dashboards for incident monitoring and situational awareness
+- Linux, AWS, database, and production-system administration
+- OSINT research systems, source validation, and secure data handling
 
 When not building data systems, Dan enjoys painting and playing the banjo.
 
@@ -51,7 +53,6 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
 <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<!-- Suggested additions for your geospatial focus -->
 <a href="https://www.esri.com/en-us/arcgis/about-arcgis/overview" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arcgis.svg" width="36" height="36" alt="ArcGIS" /></a>
 <a href="https://qgis.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/qgis.svg" width="36" height="36" alt="QGIS" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -76,7 +77,6 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 </picture>
 </a>
 <a href="https://discord.com/users/tocsindata" target="_blank" rel="noreferrer">
-<!-- Add Discord icon if desired, or keep as text link -->
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
 </a>
 </p>
