@@ -30,13 +30,6 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 - Interested in data systems, backend development, API integrations, automation, geospatial applications, and operational dashboards
 - Email: [info@tocsindata.com](mailto:info@tocsindata.com)
 
-<a href="https://github.com/tocsindata" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/github/followers/tocsindata?logo=github&style=for-the-badge&color=3382ed&labelColor=1c1917" alt="GitHub followers" />
-</a>
-<a href="https://www.x.com/competentmen" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/tocsindata/tocsindata/refs/heads/main/competentmen-6k-blue.png" alt="X Profile" />
-</a>
-
 ### Technical Skills
 
 **Backend and data:** PHP, Laravel, Python, FastAPI, MySQL, PostgreSQL, PostGIS  
@@ -47,22 +40,5 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 
 ### Socials
 
-<p align="left">
-<a href="https://www.github.com/tocsindata" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://www.x.com/competentmen" target="_blank" rel="noreferrer">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" />
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
-</picture>
-</a>
-<a href="https://discord.com/users/tocsindata" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" />
-</a>
-</p>
+- [LinkedIn](https://www.linkedin.com/in/danfoscarini)
+- [X](https://x.com/competentmen)
