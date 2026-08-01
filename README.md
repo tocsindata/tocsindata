@@ -37,8 +37,3 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 **Geospatial:** ArcGIS, QGIS, spatial databases, web mapping, geocoding  
 **Infrastructure:** Linux, AWS, Apache, production deployment, system monitoring  
 **Frontend:** JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
-
-### Socials
-
-- [LinkedIn](https://www.linkedin.com/in/danfoscarini)
-- [X](https://x.com/competentmen)
