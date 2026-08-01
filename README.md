@@ -1,8 +1,8 @@
-Daniel Foscarini (Data Specialist)
-===================================
+Daniel Foscarini
+================
 
-Data Specialist at Tocsin Data
-------------------------------
+Data Systems Developer | PHP, Python, APIs, Geospatial Intelligence & Automation
+---------------------------------------------------------------------------------
 
 Dan is an Information Professional and Data Specialist at **Tocsin Data**, with over 15 years of experience in secure communications, research, data ingestion, and geospatial intelligence. He specializes in building robust data solutions — including operational dashboards, real-time mapping systems, ingestion pipelines, and custom OSINT tools — for clients in law enforcement, government, security, and enterprise sectors.
 
