@@ -37,3 +37,15 @@ When not building data systems, Dan enjoys painting and playing the banjo.
 **Geospatial:** ArcGIS, QGIS, spatial databases, web mapping, geocoding  
 **Infrastructure:** Linux, AWS, Apache, production deployment, system monitoring  
 **Frontend:** JavaScript, HTML, CSS, Bootstrap, Tailwind CSS
+
+### Repository Documentation
+
+This repository is the public GitHub profile surface for `tocsindata`. Operational documentation is maintained separately from the profile content:
+
+- [Project metadata](meta.md)
+- [Authoritative task pointer](todo.md)
+- [Repository map](documentation/tree.md)
+- [Profile maintenance](documentation/human/maintenance.md)
+- [Security and publication boundary](documentation/human/security.md)
+- [AI editing guidance](documentation/ai/README.md)
+- [History and preserved profile copy](documentation/history/history.md)
