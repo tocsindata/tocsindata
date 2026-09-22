@@ -49,3 +49,5 @@ This repository is the public GitHub profile surface for `tocsindata`. Operation
 - [Security and publication boundary](documentation/human/security.md)
 - [AI editing guidance](documentation/ai/README.md)
 - [History and preserved profile copy](documentation/history/history.md)
+
+ACTIVE STAMP: 09-22-2026
